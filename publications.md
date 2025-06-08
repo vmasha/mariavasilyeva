@@ -44,3 +44,5 @@
 - M. Vasilyeva, D. Ammosov, V. Vasil’ev (2021). Finite Element Simulation of Thermo-Mechanical Model with Phase Change. *Computation*, 9(1), 5.
 - Vasil’ev, V. I., Vasilyeva, M. V., Nikiforov, D. Y., Sidnyaev, N. I., Stepanov, S. P., Tseeva, A. N. (2021). Computational Implementation of a Mixed-Dimensional Model of Heat Transfer in the Soil–Pipe System in Cryolithic Zone. *Computational Mathematics and Mathematical Physics*, 61(12), 2054-2067.
 - A. Tyrylgin, Y. Chen, M. Vasilyeva, E. T. Chung (2021). Multiscale model reduction for the Allen–Cahn problem in perforated domains. *
+
+### Complete publication list on Google Scholar [Google Scholar](https://scholar.google.com/citations?user=RmX3fQ0AAAAJ&hl=en)
