@@ -1,4 +1,4 @@
-# Publications
+# Recent Publications (Last 5 Years)
 
 ### 2025
 - M. Vasilyeva, A. Krasnikov, K. Gajamannage, M. Mehrubeoglu (2025). Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions. *Journal of Computational and Applied Mathematics*, 116733.
@@ -43,6 +43,6 @@
 - D. Spiridonov, M. Vasilyeva, A. Tyrylgin, E. T. Chung (2021). An Online Generalized Multiscale Finite Element Method for Unsaturated Filtration Problem in Fractured Media. *Mathematics*, 9(12), 1382.
 - M. Vasilyeva, D. Ammosov, V. Vasil’ev (2021). Finite Element Simulation of Thermo-Mechanical Model with Phase Change. *Computation*, 9(1), 5.
 - Vasil’ev, V. I., Vasilyeva, M. V., Nikiforov, D. Y., Sidnyaev, N. I., Stepanov, S. P., Tseeva, A. N. (2021). Computational Implementation of a Mixed-Dimensional Model of Heat Transfer in the Soil–Pipe System in Cryolithic Zone. *Computational Mathematics and Mathematical Physics*, 61(12), 2054-2067.
-- A. Tyrylgin, Y. Chen, M. Vasilyeva, E. T. Chung (2021). Multiscale model reduction for the Allen–Cahn problem in perforated domains. *
+- A. Tyrylgin, Y. Chen, M. Vasilyeva, E. T. Chung (2021). Multiscale model reduction for the Allen–Cahn problem in perforated domains. 
 
-### Complete publication list on Google Scholar [Google Scholar](https://scholar.google.com/citations?user=RmX3fQ0AAAAJ&hl=en)
+Complete publication list on Google Scholar [Google Scholar](https://scholar.google.com/citations?user=RmX3fQ0AAAAJ&hl=en)
