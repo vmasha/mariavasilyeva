@@ -59,16 +59,21 @@
 - Generalized Multiscale Finite Element Methods for problems in perforated domains. INTERPORE 2016. Cincinnati, Ohio, US, May 2016.
 - Generalized Multiscale Finite Element Method for Non-Newtonian Fluid Flow in Perforated Domain, AMiTaNS. Albena, Bulgaria, June 2016.
 
-### 2015 and before
+### 2015
 - Generalized multiscale finite elements method for shale gas transport in fractured media. SIAM Conference on Mathematical and Computational Issues in the Geosciences. Stanford University, Stanford, California USA, July 2015.
 - Generalized multiscale finite elements method for filtration problems in fractured media. Advanced Mathematics, Computations and Applications, Novosibirsk, Russia, October 2015.
 - Generalized multiscale finite elements method (GMsFEM) for perforated domains. The fourth Chinese-Russian Workshop on Numerical Mathematics and Scientific Compution. Tianjin, China, October 2015.
+
+### 2014
 - Splitting schemes for poroelasticity problems. INTERPORE 2014. Milwaukee, Wisconsin, USA, May 2014.
 - Splitting scheme for poroelasticity and thermoelasticity problems. Workshop on Computational Geomechanics. Pittsburgh PA, USA, May 2014
 - Mathematical modeling of heat transfer problems in the permafrost. Sixth Conference of the Euro-American Consortium for Promoting the Application of Mathematics in Technical and Natural Sciences. Albena, Bulgaria, June 2014.
 - Splitting scheme for poroelasticity and thermoelasticity problems. Sixth Conference on Finite Difference Methods: Theory and Applications. Lozenetz, Bulgaria, June 2014.
+
+### 2013
 - Numerical solution of thermal stabilization problem in filtering grounds. INTERPORE 2013. Prague, Czech Republic, May 2013.
 - Mathematical modeling of thermal stabilization of soils on high performance computing systems. 9th International Conference on Large-Scale Scientific Computations. Sozopol, Bulgaria, June 2013.
-- Numerical algorithms for solution of identification problem for the lower coefficient of parabolic equation. International conference Advanced Mathematics, Computations & Applications. Novosibirsk, Russia, June 2014.
+
+### 2012
 - Pressure problem for multiphase filtration and parallel solution algorithms. INTERPORE 2012. Purdue University, West Lafayette, Indiana, USA, May 2012.
 - Unconditionally stable schemes for non-stationary convection-diffusion equations. Fifth Conference on Numerical Analysis and Applications. Lozenetz, Bulgaria, June 2012.
