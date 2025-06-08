@@ -12,7 +12,7 @@ Google Scholar [Google Scholar](https://scholar.google.com/citations?user=RmX3fQ
 ## Employment
 
 **Assistant Professor in Applied Mathematics**  
-*09/2021 - present*  
+*08/2021 - present*  
 Department of Mathematics and Statistics, Texas A&M University - Corpus Christi, Corpus Christi, Texas  
 
 **Senior Research Scientist**  
