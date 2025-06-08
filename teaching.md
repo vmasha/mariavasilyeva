@@ -1,3 +1,5 @@
+## Teaching at TAMUCC
+
 ### 2025
 - **Summer 2025:** CMSS-590 Advanced Topic – Big Data Blitz (Guest Instructor, Week 7: Clustering. Linear Regression. Optimization. Deep Learning)  
 - **Spring 2025:** MATH-5333 Numerical Linear Algebra  
