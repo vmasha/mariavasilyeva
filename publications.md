@@ -1,4 +1,4 @@
-# Recent Publications (Last 5 Years)
+## Recent Publications (Last 5 Years)
 
 ### 2025
 - M. Vasilyeva, A. Krasnikov, K. Gajamannage, M. Mehrubeoglu (2025). Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions. *Journal of Computational and Applied Mathematics*, 116733.
