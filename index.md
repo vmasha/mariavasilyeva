@@ -1,6 +1,4 @@
 # Maria Vasilyeva 
- 
-Maria Vasilyeva 
 
 Assistant Professor in Applied Mathematics
 
