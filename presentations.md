@@ -27,10 +27,16 @@
 - Coastal Temporal-Spatial Systems of Multi-Species Interactions: Impact of the Diffusion and the Initial Conditions on the Time Needed to Reach the Equilibrium. The Gulf of Mexico Conference 2022 (GoMCon). April 2022, Baton Rouge LA
 - Impact of the System Parameters on the Restoration Time for Coastal Multi-Species Habitats After Catastrophic Events. The Gulf of Mexico Conference 2022 (GoMCon). April 2022, Baton Rouge LA
 - Numerical solution of the thermo-hydro-mechanical model with phase-change with application to the hydrate simulations and permafrost problems. Texas Women in Math Symposium (TWIMS). February 2022, Rice University, Houston, TX
+
+### 2021
 - Learning macroscopic parameters in multiscale simulations of multi-phase flows in porous media, SIAM TX-LA minisymposium "Numerical methods for multi-phase flows in porous media", November 2021, South Padre Island, TX
 - Multiscale methods, upscaling and machine learning techniques for poroelasticity problems in heterogeneous media. The 6th annual meeting of SIAM Central States Section, October 2021, Online
+
+### 2020
 - Multiscale model reduction for applied problems in heterogeneous media. LANS Seminar, Argonne National Laboratory. November 2020, Online
 - Nonlocal nonlinear upscaling for problems in heterogeneous and fracture media using machine learning technique. InterPore 2020, August 2020, Online
+
+### 2019
 - Constrained Energy Minimization Based Upscaling for Coupled Flow and Mechanics in Fractured Porous Media. SIAM Conference on Mathematical & Computational Issues in the Geosciences, March 2019, Houston
 
 ### 2018
